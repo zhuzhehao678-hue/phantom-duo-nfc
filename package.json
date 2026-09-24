@@ -1,0 +1,2 @@
+{"name":"phantom-duo-nfc","private":true,"type":"module","scripts":{"test":"node --test content.test.mjs","build":"tailwindcss -i input.css -o tailwind.css --minify"},"devDependencies":{"@tailwindcss/cli":"^4.1.0","tailwindcss":"^4.1.0"}}
+
